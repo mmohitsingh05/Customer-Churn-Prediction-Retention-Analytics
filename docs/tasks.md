@@ -56,15 +56,15 @@ Linked from: [`../AGENTS.md`](../AGENTS.md)
 - [x] `.gitignore` created
 - [x] `.env` created locally, `python/database.py` refactored to use `dotenv`
 - [x] `ml/model_metrics.json` populated with real metrics
-- [ ] `reports/business_insights.md` written with real findings
-- [ ] `python/data_cleaning.py`, `train_model.py`, `predict_churn.py` refactored from notebooks
-- [ ] Git initialized, `.env`/`.venv` confirmed untracked
-- [ ] Multiple meaningful commits made
-- [ ] GitHub repo created and pushed
-- [ ] `README.md` completed with real numbers + screenshots
+- [x] `reports/business_insights.md` written with real findings
+- [x] `python/data_cleaning.py`, `train_model.py`, `predict_churn.py` refactored from notebooks
+- [x] Git initialized, `.env`/`.venv` confirmed untracked
+- [x] Multiple meaningful commits made
+- [x] GitHub repo created and pushed — https://github.com/mmohitsingh05/Customer-Churn-Prediction-Retention-Analytics
+- [x] `README.md` completed with real numbers + screenshots
 - [x] `requirements.txt` finalized (`pip freeze`)
-- [ ] Pre-push checklist fully passed
+- [x] Pre-push checklist fully passed
 - [x] (Optional) `app.py` Streamlit demo built and tested locally
-- [ ] (Optional) Streamlit Community Cloud deployment
-- [ ] Resume bullets finalized with real metrics
-- [ ] Interview Q&A reviewed/rehearsed
+- [ ] (Optional) Streamlit Community Cloud deployment (pending user action)
+- [x] Resume bullets finalized with real metrics
+- [ ] Interview Q&A reviewed/rehearsed (pending user action)
